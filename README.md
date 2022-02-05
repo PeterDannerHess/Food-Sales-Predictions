@@ -1,2 +1,2 @@
-# Food-Sales-Predictions
-A sales prediction for food items sold at various stores
+# Peter Hess Data Science
+Various data science projects
